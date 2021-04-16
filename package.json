@@ -12,5 +12,6 @@
 		"url": "https://idontknow/todo.git"
 	},
 	"author": "David Adekunle",
-	"description": "A start up nodejs project."
+	"description": "A nodejs project practise.",
+	"keywords": [ "freecodecamp", "node", "node practice" ]
 }
